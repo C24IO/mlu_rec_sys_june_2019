@@ -23,6 +23,8 @@ Sources:
 * https://github.com/hunkim/PyTorchZeroToAll
 * https://medium.com/@mliuzzolino/hello-rnn-55a9237b7112
 * https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+* https://www.youtube.com/watch?v=M7FqgXySKYk
+* https://www.youtube.com/watch?v=Mw2AV12WH4s
 
 
 
