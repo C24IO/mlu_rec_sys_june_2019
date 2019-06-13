@@ -2,6 +2,8 @@
 
 ### Instructors: Kristof Schum (kschum@) & Chaitanya Hazarey (chazarey@)
 
+* Personalizing Session-based Recommendation with Hierarchical Recurrent Neural Networks - https://github.com/mquad/hgru4rec
+
 Sources: 
 
 * http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf
